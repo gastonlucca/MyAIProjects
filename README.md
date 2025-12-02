@@ -1,4 +1,4 @@
-<img width="896" height="49" alt="image" src="https://github.com/user-attachments/assets/43fdb6ca-7c47-462a-b805-fab30e0e4f96" /># MyAIProject
+MyAIProject
 
 ## 🔥 1) AI Hackathon – Building a Sciring for QA articules quality 
 **Role:** Data Product Owner / BI Lead  
