@@ -1,6 +1,6 @@
 <img width="896" height="49" alt="image" src="https://github.com/user-attachments/assets/43fdb6ca-7c47-462a-b805-fab30e0e4f96" /># MyAIProject
 
-## 🔥 1) AI Hackathon – Knowledge Cup (Schneider Electric)
+## 🔥 1) AI Hackathon – Building a Sciring for QA articules quality 
 **Role:** Data Product Owner / BI Lead  
 **Technologies:** Python - Dataiku - Tableau
 ** AI models: FAISS · LLMs ·  Machine Learning · Similarity Scoring · Clustering  
@@ -42,7 +42,7 @@ The goal was to enable smarter search, automation opportunities, and improved kn
 ## 🔥 2) Argumned BI:  Tableau Pulse 
 **Role:** Data Product Owner  
 **Technologies:**   Tableau Pulse - Tableau Cloud - AWS -
-** AI models: LLMs · Machine Learning · NPL ·
+** AI models & models: LLMs · Machine Learning · NPL 
  * Scope: Sales data mart 
  * Status: deployed in Prod and scaled to 50 business users
 
@@ -57,18 +57,19 @@ Status: deployed in prod and scaled to 50 business users
 
 ## 📎 Project Files  
 - 📊 Dashboard mock-ups
-
-
+<img width="768" height="305" alt="image" src="https://github.com/user-attachments/assets/493c1639-a6bd-4a2c-aed5-e86371908939" />
+<img width="469" height="332" alt="image" src="https://github.com/user-attachments/assets/8898f0f5-5ef8-4266-a356-67bdf7333a54" />
+<img width="461" height="339" alt="image" src="https://github.com/user-attachments/assets/cdbf6d01-4c67-4f33-bb74-59f79ab5abec" />
 
 ### 📊 Key Outcomes  
 - The adoption is higher know-how within Data & Analytics Team and wiht knoledge of the data base
 - Low flexibility in the intereaction between user and data: Robust but Constrained: The platform’s robustness restricts flexibility
-
+..............................................................
   
 ## 🔥 3) Argumned BI:  Thoughtspot  (PoC) 
 **Role:** Data Product Owner  
 **Technologies:**  AWS - Thoughtspot - Spotter Agent - Spotter Classic
-** AI models:LLMs  · Machine Learning · NPL · RAG 
+** AI tech & models:LLMs  · Machine Learning · NPL · RAG 
  * Scope: Sales data mart 
  * Status: deployed in Prod for testing purposes
 
@@ -82,6 +83,28 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 <img width="599" height="385" alt="image" src="https://github.com/user-attachments/assets/0383e31b-ce5c-45a8-8d01-b5284de45a9a" />
 <img width="497" height="470" alt="image" src="https://github.com/user-attachments/assets/c0c76090-6527-4489-abde-823b07acc2c9" />
 
-### 📊 Key Outcomes  (to complete) 
+### 📊 Key Outcomes  
 - Higt flexibility in the intereaction between user and data thank to the Spotter Agent
 - Powerfull NPL model with a good semantic layer that lever the analitc capability of the user
+................................................................
+
+## 🔥 4) ML:  Rcomendation System
+**Role:** Product Owner  
+**Technologies:**  Phyton - AWS 
+** AI tech & models: Machine Learning 
+ * Scope: AI CoE HUB / BU: Power sytem 
+ * Status: 
+
+### 🧩 Overview 
+Develop a model that can predic the (perecer) of a install base machine. The objective was to porvide to the fields sales team a tool that can teel them when to contact a cient to offer a new machine. 
+..................................................
+
+## 🔥 5) ML:  Rcomendation System (championship) 
+**Role:** Product Owner  
+**Technologies:**  Phyton - AWS 
+** AI tech & models: Machine Learning 
+ * Scope: AI CoE HUB 
+ * Status: 
+
+### 🧩 Overview 
+Develop a model recommdedation system engine (model) 
