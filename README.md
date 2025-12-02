@@ -1,6 +1,6 @@
 # MyAIProject
 
-## 🔥 AI Hackathon – Knowledge Cup (Schneider Electric)
+1 ## 🔥 AI Hackathon – Knowledge Cup (Schneider Electric)
 **Role:** Data Product Owner / BI Lead  
 **Technologies:** Python · FAISS · LLMs · Dataiku · Machine Learning · Similarity Scoring · Clustering  
 **Team:** B. Pinuela, J. Sabatés, O. Díaz, G. Lucca, I. Yurchurk, E. Llorens  
@@ -37,5 +37,22 @@ The goal was to enable smarter search, automation opportunities, and improved kn
 - 🧠 Prototype notebooks → *Optional if available*  
 
 ---
+
+2 ## 🔥 Argumneted BI:  Tableau Pulse 
+**Role:** Data Product Owner  
+**Technologies:** LLMs · Dataiku · Machine Learning · NPL · AWS- Tableau Pulse - Tableau Cloud 
+
+
+
+### 🧩 Overview  
+Implementing GenAI solutions focused on data analytics to enhance insights, accelerate development, and drive innovation across sales
+reporting. Led Proofs of Concept with major GenAI vendors in the data visualization environment to test business usability and scalability,
+contributing to the definition of the AI strategy for sales capabilities. 
+
+Scope: Sales data mart 
+Status: deployed in prod and scaled to 50 business users 
+
+## 📎 Project Files  
+- 📊 Dashboard mock-ups 
 
 
