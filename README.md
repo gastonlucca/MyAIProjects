@@ -2,7 +2,8 @@
 
 ## 🔥 1) AI Hackathon – Knowledge Cup (Schneider Electric)
 **Role:** Data Product Owner / BI Lead  
-**Technologies:** Python · FAISS · LLMs · Dataiku · Machine Learning · Similarity Scoring · Clustering  
+**Technologies:** Python - Dataiku - Tableau
+** AI models: FAISS · LLMs ·  Machine Learning · Similarity Scoring · Clustering  
 **Team:** B. Pinuela, J. Sabatés, O. Díaz, G. Lucca, I. Yurchurk, E. Llorens  
 
 ### 🧩 Overview  
@@ -40,8 +41,10 @@ The goal was to enable smarter search, automation opportunities, and improved kn
 
 ## 🔥 2) Argumned BI:  Tableau Pulse 
 **Role:** Data Product Owner  
-**Technologies:** LLMs · Dataiku · Machine Learning · NPL · AWS- Tableau Pulse - Tableau Cloud 
-
+**Technologies:**   Tableau Pulse - Tableau Cloud - AWS -
+** AI models: LLMs · Machine Learning · NPL ·
+ * Scope: Sales data mart 
+ * Status: deployed in Prod and scaled to 50 business users
 
 
 ### 🧩 Overview  
@@ -55,4 +58,17 @@ Status: deployed in prod and scaled to 50 business users
 ## 📎 Project Files  
 - 📊 Dashboard mock-ups 
 
+## 🔥 3) Argumned BI:  Thoughtspot  (PoC) 
+**Role:** Data Product Owner  
+**Technologies:**  AWS - Thoughtspot - Sportter Agent 
+** AI models:LLMs  · Machine Learning · NPL · RAG 
+ * Scope: Sales data mart 
+ * Status: deployed in Prod for testing purposes
 
+### 🧩 Overview  
+Led Proofs of Concept with major GenAI vendors in the data visualization environment to test business usability and scalability,
+contributing to the definition of the AI strategy for sales capabilities. Test GenAI solutions focused on data analytics to enhance insights, accelerate development, and drive innovation across the sales reporting scope.
+
+## 📎 Project Files  
+- 📊 Dashboard mock-ups 
+<img width="660" height="450" alt="image" src="https://github.com/user-attachments/assets/12c8a0f8-38be-464c-a658-c735703cfcee" />
