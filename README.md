@@ -1,4 +1,4 @@
-# MyAIProject
+<img width="896" height="49" alt="image" src="https://github.com/user-attachments/assets/43fdb6ca-7c47-462a-b805-fab30e0e4f96" /># MyAIProject
 
 ## 🔥 1) AI Hackathon – Knowledge Cup (Schneider Electric)
 **Role:** Data Product Owner / BI Lead  
@@ -56,11 +56,18 @@ Scope: Sales data mart
 Status: deployed in prod and scaled to 50 business users 
 
 ## 📎 Project Files  
-- 📊 Dashboard mock-ups 
+- 📊 Dashboard mock-ups
 
+
+
+### 📊 Key Outcomes  
+- The adoption is higher know-how within Data & Analytics Team and wiht knoledge of the data base
+- Low flexibility in the intereaction between user and data: Robust but Constrained: The platform’s robustness restricts flexibility
+
+  
 ## 🔥 3) Argumned BI:  Thoughtspot  (PoC) 
 **Role:** Data Product Owner  
-**Technologies:**  AWS - Thoughtspot - Sportter Agent 
+**Technologies:**  AWS - Thoughtspot - Spotter Agent - Spotter Classic
 ** AI models:LLMs  · Machine Learning · NPL · RAG 
  * Scope: Sales data mart 
  * Status: deployed in Prod for testing purposes
@@ -70,5 +77,11 @@ Led Proofs of Concept with major GenAI vendors in the data visualization environ
 contributing to the definition of the AI strategy for sales capabilities. Test GenAI solutions focused on data analytics to enhance insights, accelerate development, and drive innovation across the sales reporting scope.
 
 ## 📎 Project Files  
-- 📊 Dashboard mock-ups 
+- 📊 Dashboard mock-ups (dummy data) 
 <img width="660" height="450" alt="image" src="https://github.com/user-attachments/assets/12c8a0f8-38be-464c-a658-c735703cfcee" />
+<img width="599" height="385" alt="image" src="https://github.com/user-attachments/assets/0383e31b-ce5c-45a8-8d01-b5284de45a9a" />
+<img width="497" height="470" alt="image" src="https://github.com/user-attachments/assets/c0c76090-6527-4489-abde-823b07acc2c9" />
+
+### 📊 Key Outcomes  (to complete) 
+- Higt flexibility in the intereaction between user and data thank to the Spotter Agent
+- Powerfull NPL model with a good semantic layer that lever the analitc capability of the user
