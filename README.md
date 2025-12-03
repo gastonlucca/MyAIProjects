@@ -83,6 +83,8 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 <img width="599" height="385" alt="image" src="https://github.com/user-attachments/assets/0383e31b-ce5c-45a8-8d01-b5284de45a9a" />
 <img width="497" height="470" alt="image" src="https://github.com/user-attachments/assets/c0c76090-6527-4489-abde-823b07acc2c9" />
 <img width="866" height="415" alt="image" src="https://github.com/user-attachments/assets/623056fc-4782-4f68-9bef-1de9fa31ec3c" />
+<img width="746" height="401" alt="image" src="https://github.com/user-attachments/assets/991da6f6-5d1a-4882-aa0b-fea6109065d1" />
+
 
 
 ### 📊 Key Outcomes  
