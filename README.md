@@ -82,6 +82,8 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 <img width="660" height="450" alt="image" src="https://github.com/user-attachments/assets/12c8a0f8-38be-464c-a658-c735703cfcee" />
 <img width="599" height="385" alt="image" src="https://github.com/user-attachments/assets/0383e31b-ce5c-45a8-8d01-b5284de45a9a" />
 <img width="497" height="470" alt="image" src="https://github.com/user-attachments/assets/c0c76090-6527-4489-abde-823b07acc2c9" />
+<img width="866" height="415" alt="image" src="https://github.com/user-attachments/assets/623056fc-4782-4f68-9bef-1de9fa31ec3c" />
+
 
 ### 📊 Key Outcomes  
 - Higt flexibility in the intereaction between user and data thank to the Spotter Agent
