@@ -103,7 +103,7 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 Develop a model that can predic the (perecer) of a install base machine. The objective was to porvide to the fields sales team a tool that can teel them when to contact a cient to offer a new machine. 
 ..................................................
 
-## 🔥 5) ML:  Rcomendation System (championship) 
+## 🔥 5) ML:  Rcomendation System (championship) - Web Activity Digest MVP
 **Role:** Product Owner  
 **Technologies:**  Phyton - AWS 
 ** AI tech & models: Machine Learning 
@@ -111,4 +111,10 @@ Develop a model that can predic the (perecer) of a install base machine. The obj
  * Status: 
 
 ### 🧩 Overview 
-Develop a model recommdedation system engine (model) 
+Develop a model recommdedation system engine (model) that inform an account manager about products that a specific contact/client  is interested in.
+
+Stream 1 – Web Activity Digest MVP
+
+<img width="928" height="404" alt="image" src="https://github.com/user-attachments/assets/e5a72390-90c7-457e-abe4-ea2f5cd5280a" />
+
+
