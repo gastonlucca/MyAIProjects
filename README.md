@@ -1,44 +1,6 @@
 MyAIProject
 
-## 🔥 1) AI Hackathon – Building a Scoring for FAQ article (Customer and Satisfaction department) 
-**Role:**  Product Manager / Data Lead  
-**Technologies:** Python - Dataiku - Tableau
-** AI models: FAISS · LLMs ·  Machine Learning · Similarity Scoring · Clustering  
-**Team:** B. Pinuela, J. Sabatés, O. Díaz, G. Lucca, I. Yurchurk, E. Llorens  
-
-### 🧩 Overview  
-As part of the Schneider Electric “Knowledge Cup – AI Hackathon”, our team developed an AI-driven solution to digitize and structure the company’s FAQ knowledge base, which was highly unstructured and difficult to maintain.  The goal was to enable smarter search, automation opportunities, and improved knowledge management across product lines.
-
-### 🚀 My Contributions  
-- Defined the **product scope** and led the functional design for two use cases:  
-  - **UC1 – FAQ Similarity Scoring**  
-  - **UC2 – FAQ-to-Document Semantic Matching**
-- Structured unorganized HTML-based FAQ content into consistent fields (Product Line, Environment, Issue, Resolution).  
-- Designed the end-to-end pipeline: **data preparation → validation → LLM scoring → FAISS similarity → reporting**.  
-- Coordinated and built **dashboard mock-ups** for similarity interpretation and clustering visualization.  
-- Ensured alignment between technical development and business expectations.
-
-### 📊 Key Outcomes  
-- Developed a **semantic similarity scoring engine** (title-to-title, answer-to-answer, FAQ-to-document).  
-- Enabled **clustering** of related FAQs for faster expert review.  
-- Included automatic detection of broken links and inconsistent metadata.  
-- Avoided word-to-word comparison issues by introducing **LLM-based contextual scoring**.  
-- Prepared a scalable baseline to extend the solution across languages and additional document types.
-
-### 📈 Proposed Next Steps  
-- Integrate a **translation module** (FR ↔ EN).  
-- Standardize FAQ structure globally (Product Line / Issue / Resolution as required fields).  
-- Extend clustering capabilities by product context and environment.  
-- Apply the solution to other document families with similar metadata formats.
-
-### 📎 Project Files  
-- 📄 **Hackathon Presentation (PDF/PPT)** → *Add link once uploaded to the repo*  
-- 📊 Dashboard mock-ups → *Optional screenshots*  
-- 🧠 Prototype notebooks → *Optional if available*  
-
----
-
-## 🔥 2) Argumned BI:  Tableau Pulse 
+## 🔥 1) Argumned BI:  Tableau Pulse 
 **Role:** Data Product Owner  
 **Technologies:**   Tableau Pulse - Tableau Cloud - AWS -
 ** AI models & models: LLMs · Machine Learning · NPL 
@@ -61,9 +23,45 @@ Status: deployed in prod and scaled to 50 business users
 <img width="461" height="339" alt="image" src="https://github.com/user-attachments/assets/cdbf6d01-4c67-4f33-bb74-59f79ab5abec" />
 
 ### 📊 Key Outcomes  
-- The adoption is higher know-how within Data & Analytics Team and wiht knoledge of the data base
-- Low flexibility in the intereaction between user and data: Robust but Constrained: The platform’s robustness restricts flexibility
-..............................................................
+- The adoption is higher know-how within the Data & Analytics Team, and with knowledge of the database
+- Low flexibility in the interaction between user and data: Robust but Constrained: The platform’s robustness restricts flexibility
+
+## 🔥 2) Scoring KPI for FAQ article (Customer and Satisfaction department) 
+**Role:**  Product Manager / Data Lead  
+**Technologies:** Python - Dataiku - Tableau
+** AI models: FAISS · LLM ·  Machine Learning · Similarity Scoring · Clustering  
+**AI Hackathon – Team:** B. Pinuela, J. Sabatés, O. Díaz, G. Lucca, I. Yurchurk, E. Llorens  
+
+### 🧩 Overview  
+As part of the Schneider Electric “Knowledge Cup – AI Hackathon”, our team developed an AI-driven solution to digitize and structure the company’s FAQ knowledge base, which was highly unstructured and difficult to maintain.  The goal was to enable smarter search, automation opportunities, and improved knowledge management across product lines.
+
+### 🚀 My Contributions  
+- Defined the **product scope** and led the functional design for two use cases:  
+  - **UC1 – FAQ Similarity Scoring at title level**  
+  - **UC2 – FAQ-to-Document Semantic Matching**
+- Structured unorganized HTML-based FAQ content into consistent fields (Product Line, Environment, Issue, Resolution).  
+- Designed the end-to-end pipeline: **data preparation → validation → LLM scoring → FAISS similarity → reporting**.  
+- Coordinated and built **dashboard mock-ups** for similarity interpretation and clustering visualization.  
+- Ensured alignment between technical development and business expectations.
+
+### 📊 Key Outcomes  
+- Developed a **semantic similarity scoring engine** (title-to-title, answer-to-answer, FAQ-to-document).  
+- Enabled **clustering** of related FAQs for faster expert review.  
+- Included automatic detection of broken links and inconsistent metadata.  
+- Avoided word-to-word comparison issues by introducing **LLM-based contextual scoring**.  
+- Prepared a scalable baseline to extend the solution across languages and additional document types.
+
+### 📈 Proposed Next Steps  
+- Integrate a **translation module** (FR ↔ EN).  
+- Standardize FAQ structure globally (Product Line / Issue / Resolution as required fields).  
+- Extend clustering capabilities by product context and environment.  
+- Apply the solution to other document families with similar metadata formats.
+
+### 📎 Project Files  
+- 📄 **Hackathon Presentation (PDF/PPT)** → *Add link (WIP) *  
+- 📊 Dashboard mock-ups → * screenshots*  
+
+.............................................................
   
 ## 🔥 3) Argumned BI:  Thoughtspot  (PoC) 
 **Role:** Data Product Owner  
@@ -85,35 +83,45 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 <img width="746" height="401" alt="image" src="https://github.com/user-attachments/assets/991da6f6-5d1a-4882-aa0b-fea6109065d1" />
 
 
-
 ### 📊 Key Outcomes  
-- Higt flexibility in the intereaction between user and data thank to the Spotter Agent
-- Powerfull NPL model with a good semantic layer that lever the analitc capability of the user
+- High flexibility in the interaction between user and data thanks to the Spotter Agent
+- Powerful NPL model with a good semantic layer that leverages the analytical capability of the user
 ................................................................
 
-## 🔥 4) ML:  Rcomendation System
-**Role:** Product Owner  
+## 🔥 4) ML:  Recommendation System for Installed base product
+**Role:** Product Owner / Business Analyst   
 **Technologies:**  Phyton - AWS 
 ** AI tech & models: Machine Learning 
- * Scope: AI CoE HUB / BU: Power sytem 
- * Status: 
+ * Scope: AI CoE HUB / BU: Power system 
+ * Status: Deployed 
 
 ### 🧩 Overview 
-Develop a model that can predic the (perecer) of a install base machine. The objective was to porvide to the fields sales team a tool that can teel them when to contact a cient to offer a new machine. 
+Develop a model that can predict the (perecer) of an install base machine. The objective was to provide the field sales team with a  tool that could tell them when to contact a client to offer a new machine. 
+
+
+
 ..................................................
 
-## 🔥 5) ML:  Rcomendation System (championship) - Web Activity Digest MVP
-**Role:** Product Owner  
+## 🔥 5) ML:  Recommendation System  - Web Activity Digest MVP
+**Role:** Product Manager 
 **Technologies:**  Phyton - AWS 
 ** AI tech & models: Machine Learning 
  * Scope: AI CoE HUB 
- * Status: 
+ * Status: Deployed 
 
 ### 🧩 Overview 
-Develop a model recommdedation system engine (model) that inform an account manager about products that a specific contact/client  is interested in.
+Develop a model recommendation system engine (model) that informs an account manager about products that a specific contact/client  is interested in.
 
 Stream 1 – Web Activity Digest MVP
 
 <img width="928" height="404" alt="image" src="https://github.com/user-attachments/assets/e5a72390-90c7-457e-abe4-ea2f5cd5280a" />
 
+## 🔥 6): Machine Learning model- recommendation system for Sales Team (https://github.com/gastonlucca/Gaston-Portfolio)
 
+1. Scoping and framing the problem statement: use case elaboration 
+2. Data Research and exploration: exploring the data available on the database level and data sources
+3. IT architecture for scalable machine learning models: What is the right IT architecture to scale models
+
+![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%201.PNG)
+
+![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%202.PNG)
