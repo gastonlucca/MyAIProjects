@@ -1,14 +1,13 @@
 MyAIProject
 
-## 🔥 1) AI Hackathon – Building a Sciring for QA articules quality 
-**Role:** Data Product Owner / BI Lead  
+## 🔥 1) AI Hackathon – Building a Scoring for FAQ article (Customer and Satisfaction department) 
+**Role:**  Product Manager / Data Lead  
 **Technologies:** Python - Dataiku - Tableau
 ** AI models: FAISS · LLMs ·  Machine Learning · Similarity Scoring · Clustering  
 **Team:** B. Pinuela, J. Sabatés, O. Díaz, G. Lucca, I. Yurchurk, E. Llorens  
 
 ### 🧩 Overview  
-As part of the Schneider Electric “Knowledge Cup – AI Hackathon”, our team developed an AI-driven solution to **digitize and structure the company’s FAQ knowledge base**, which was highly unstructured and difficult to maintain.  
-The goal was to enable smarter search, automation opportunities, and improved knowledge management across product lines.
+As part of the Schneider Electric “Knowledge Cup – AI Hackathon”, our team developed an AI-driven solution to digitize and structure the company’s FAQ knowledge base, which was highly unstructured and difficult to maintain.  The goal was to enable smarter search, automation opportunities, and improved knowledge management across product lines.
 
 ### 🚀 My Contributions  
 - Defined the **product scope** and led the functional design for two use cases:  
