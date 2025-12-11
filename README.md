@@ -116,7 +116,7 @@ Stream 1 – Web Activity Digest MVP
 
 <img width="928" height="404" alt="image" src="https://github.com/user-attachments/assets/e5a72390-90c7-457e-abe4-ea2f5cd5280a" />
 
-## 🔥 6): Machine Learning model- recommendation system for Sales Team (https://github.com/gastonlucca/Gaston-Portfolio)
+## 🔥 6): Machine Learning model- recommendation system for Sales Team 
 
 1. Scoping and framing the problem statement: use case elaboration 
 2. Data Research and exploration: exploring the data available on the database level and data sources
@@ -125,3 +125,8 @@ Stream 1 – Web Activity Digest MVP
 ![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%201.PNG)
 
 ![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%202.PNG)
+
+Product Evolution 
+
+<img width="863" height="245" alt="image" src="https://github.com/user-attachments/assets/5e1e09b1-a3cb-454b-839f-b42f20b06de1" />
+
