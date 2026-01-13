@@ -1,4 +1,4 @@
-MyAIProject
+MyAIProjects
 
 ## 🔥 1) Argumned BI:  Tableau Pulse 
 **Role:** Data Product Owner  
