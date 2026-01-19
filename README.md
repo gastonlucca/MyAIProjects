@@ -2,10 +2,10 @@ MyAIProjects
 
 ## 🔥 1) Argumned BI:  Tableau Pulse 
 **Role:** Data Product Owner  
-**Technologies:**   Tableau Pulse - Tableau Cloud - AWS -
+**Technologies: Tableau Pulse - Tableau Cloud - AWS -
 ** AI models & models: LLMs · Machine Learning · NPL 
  * Scope: Sales data mart 
- * Status: deployed in Prod and scaled to 50 business users
+ * Status: deployed in Prod and scaled to 120 business users
 
 
 ### 🧩 Overview  
@@ -88,17 +88,26 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 - Powerful NPL model with a good semantic layer that leverages the analytical capability of the user
 ................................................................
 
-## 🔥 4) ML:  Recommendation System for Installed base product
-**Role:** Product Owner / Business Analyst   
-**Technologies:**  Phyton - AWS 
+## 🔥 4) ML:  Recommendation System for Installed base product (MRO)
+**Role:** Business Analyst   
+**Technologies:**  Python - AWS - SQL 
 ** AI tech & models: Machine Learning 
- * Scope: AI CoE HUB / BU: Power system 
+ * Scope: AI CoE HUB / BU: Power system/field services
+ * Data source: Salesforce (CASE) - SAP (work orders)
  * Status: Deployed 
 
 ### 🧩 Overview 
-Develop a model that can predict the (perecer) of an install base machine. The objective was to provide the field sales team with a  tool that could tell them when to contact a client to offer a new machine. 
+Develop an AI‑driven system that can predict and recommend the maintenance actions or replacement cycles of installed base machines or spare parts. The objective was to provide the field sales team with a  tool that could tell them when to contact a client to offer a new machine. 
 
+Case model created: 
 
+<img width="1117" height="460" alt="image" src="https://github.com/user-attachments/assets/aff2de47-ffec-4894-b1fc-c1694e56a8e6" />
+
+Problem framing: 
+“Operators lack visibility into upcoming maintenance needs and upgrade opportunities across the installed base.”
+“Decision-making is reactive, leading to downtime and lost revenue.”
+
+Recommendation engine combines:ML predictions - Business rules - Safety constraints - Regulatory requirements
 
 ..................................................
 
