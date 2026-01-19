@@ -59,7 +59,9 @@ As part of the Schneider Electric “Knowledge Cup – AI Hackathon”, our team
 
 ### 📎 Project Files  
 - 📄 **Hackathon Presentation (PDF/PPT)** → *Add link (WIP) *  
-- 📊 Dashboard mock-ups → * screenshots*  
+- 📊 Dashboard mock-ups → * screenshots*
+
+- WIP
 
 .............................................................
   
@@ -99,7 +101,7 @@ contributing to the definition of the AI strategy for sales capabilities. Test G
 ### 🧩 Overview 
 Develop an AI‑driven system that can predict and recommend the maintenance actions or replacement cycles of installed base machines or spare parts. The objective was to provide the field sales team with a  tool that could tell them when to contact a client to offer a new machine. 
 
-Case model created: 
+🚀 My Contributions: Case model created / Work Order relation 
 
 <img width="1117" height="460" alt="image" src="https://github.com/user-attachments/assets/aff2de47-ffec-4894-b1fc-c1694e56a8e6" />
 
