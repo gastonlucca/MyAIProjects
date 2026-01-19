@@ -131,9 +131,10 @@ Stream 1 – Web Activity Digest MVP
 2. Data Research and exploration: exploring the data available on the database level and data sources
 3. IT architecture for scalable machine learning models: What is the right IT architecture to scale models
 
-![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%201.PNG)
+<img width="1142" height="447" alt="image" src="https://github.com/user-attachments/assets/c72830a6-3661-4970-914a-ba04ec41ad0c" />
 
-![image](https://github.com/gastonlucca/Gaston-Portfolio/blob/master/Machine%20Learning%202.PNG)
+<img width="1084" height="480" alt="image" src="https://github.com/user-attachments/assets/ee81d324-67a9-4a77-8b17-932a1c2fd3d9" />
+
 
 Product Evolution 
 
