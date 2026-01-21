@@ -65,7 +65,7 @@ As part of the Schneider Electric “Knowledge Cup – AI Hackathon”, our team
 
 .............................................................
   
-## 🔥 3) Argumned BI:  Thoughtspot  (PoC) 
+## 🔥 3) Argumned BI:  Thoughtspot  (PoC) - Argentic AI and conversational BI for Data & Analytics
 **Role:** Data Product Owner  
 **Technologies:**  AWS - Thoughtspot - Spotter Agent - Spotter Classic
 ** AI tech & models:LLMs  · Machine Learning · NPL · RAG 
